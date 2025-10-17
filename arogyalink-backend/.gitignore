@@ -1,0 +1,27 @@
+# 🔹 Ignore virtual environment
+venv/
+
+# 🔹 Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🔹 Ignore environment variables file
+.env
+
+# 🔹 Ignore local instance folder (Flask specific)
+instance/
+
+# 🔹 Ignore editor settings
+.vscode/
+
+# 🔹 Ignore system files
+.DS_Store
+Thumbs.db
+
+# 🔹 Ignore database (optional)
+*.db
+
+# 🔹 Ignore any log files
+*.log
