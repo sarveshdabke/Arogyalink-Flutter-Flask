@@ -79,7 +79,7 @@ Arogyalink/
 
 ## 🧩 How It Works — App Flow
 
-```mermaid
+
 flowchart TD
 A[Patient Registers/Login] --> B[View Hospitals on Map]
 B --> C[Book OPD Appointment]
