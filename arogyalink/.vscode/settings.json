@@ -1,0 +1,5 @@
+{
+  "dart.flutterHotReloadOnSave": "all",
+  "dart.flutterHotRestartOnSave": "all",
+  "dart.flutterTrackWidgetCreation": true
+}
