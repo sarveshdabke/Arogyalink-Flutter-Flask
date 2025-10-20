@@ -197,3 +197,10 @@ This project is licensed under the MIT License — you are free to use and modif
 - Images / screenshots sourced from **Pinterest**  
 
 Thank you to everyone who contributed to making this project better!
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a **star** on GitHub!  
+[Star Arogyalink](https://github.com/sarveshdabke/ArogyaLink-Flutter-Flask)
