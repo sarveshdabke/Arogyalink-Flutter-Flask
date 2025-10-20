@@ -108,35 +108,35 @@ H --> I[Patient Receives Mail & Pays Bill]
 
 ### 1. Splash Screen
 ![Splash Screen](arogyalink/assets/images/pictures/Splash_Screen.jpg)  
-*App ka initial splash screen.*
+*The initial splash screen of the app.*
 
 ### 2. Patient Dashboard
 ![Patient Dashboard](arogyalink/assets/images/pictures/Patient_Dashboard.jpg)  
-*Patient ke home/dashboard screen jahan se appointments aur records manage hote hain.*
+*The patient’s home/dashboard where appointments and health records can be managed.*
 
 ### 3. Book OPD Appointment
 ![Book OPD Appointment](arogyalink/assets/images/pictures/Book_opd_Appointment.jpg)  
-*Patient ka appointment booking screen with token generation.*
+*Patient’s screen for booking OPD appointments with token generation.*
 
 ### 4. View Appointment
 ![View Appointment](arogyalink/assets/images/pictures/View_Appointment.jpg)  
-*Patient ke appointments ki list aur status view karne ka screen.*
+*The screen displaying a list of patient appointments and their status.*
 
 ### 5. Pay Bills
 ![Pay Bills](arogyalink/assets/images/pictures/Pay_Bills.jpg)  
-*Patient ke bill payment ka interface.*
+*The interface for patients to pay their bills.*
 
 ### 6. Map View
 ![Map View](arogyalink/assets/images/pictures/Map_view.jpg)  
-*Registered hospitals ka map view jahan se patient nearby hospitals dekh sakta hai.*
+*Map showing registered hospitals and nearby locations for patients.*
 
 ### 7. Hospital Admin Dashboard
 ![Hospital Admin Dashboard](arogyalink/assets/images/pictures/Hospital_admin_Dashboard.jpg)  
-*Hospital admin ka dashboard jahan se wards, beds, appointments, aur doctors manage hote hain.*
+*Dashboard for hospital admins to manage wards, beds, appointments, and doctors.*
 
 ### 8. Doctor Dashboard
 ![Doctor Dashboard](arogyalink/assets/images/pictures/Doctor_Dashboard.jpg)  
-*Doctor ke dashboard jahan se OPD slots manage aur appointments mark complete hote hain.*
+*Doctor’s dashboard to manage OPD slots and mark appointments as completed.*
 
 ---
 
